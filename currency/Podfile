@@ -1,0 +1,16 @@
+platform :ios, '9.0'
+use_frameworks!
+# 压制库中所有警告
+inhibit_all_warnings!
+
+target 'currency' do
+  
+  pod 'AFNetworking', '3.1.0'
+  pod 'Masonry', '1.1.0'
+  pod 'SDWebImage', '5.5.2'
+  pod 'MJRefresh', '3.2.0'
+  pod 'IQKeyboardManager', '6.4.2'                                 #键盘处理
+  pod 'MBProgressHUD', '1.1.0'
+  pod 'YYModel', '1.0.4'
+  pod 'CYLTabBarController/Lottie', '1.28.3'
+end

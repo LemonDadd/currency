@@ -1,0 +1,66 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - CYLTabBarController/Core (1.28.3)
+  - CYLTabBarController/Lottie (1.28.3):
+    - CYLTabBarController/Core
+    - lottie-ios (~> 2.5.3)
+  - IQKeyboardManager (6.4.2)
+  - lottie-ios (2.5.3)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.1.0)
+  - MJRefresh (3.2.0)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - AFNetworking (= 3.1.0)
+  - CYLTabBarController/Lottie (= 1.28.3)
+  - IQKeyboardManager (= 6.4.2)
+  - Masonry (= 1.1.0)
+  - MBProgressHUD (= 1.1.0)
+  - MJRefresh (= 3.2.0)
+  - SDWebImage (= 5.5.2)
+  - YYModel (= 1.0.4)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - CYLTabBarController
+    - IQKeyboardManager
+    - lottie-ios
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYModel
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  CYLTabBarController: cd14c6260a38337600737873a57b3114c7065a8e
+  IQKeyboardManager: b41e0a4943fbac4c11a239d31a688667675f962e
+  lottie-ios: a50d5c0160425cd4b01b852bb9578963e6d92d31
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: e837777ba86cb82b2297fde83e39fd9d00e84c59
+
+COCOAPODS: 1.8.4
